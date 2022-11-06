@@ -8,8 +8,6 @@
 
 - 🔭 I’m currently working on [Store Billing System](https://github.com/hetvi20/billing-software-python-tkinter)
 
-- 🌱 I’m currently learning **Frontend**
-
 - 👯 I’m looking to collaborate on [Hawking](https://hawkev.in/)
 
 - 🤝 I’m looking for help with [Collage Website](https://www.gphimatnagar.in/)
