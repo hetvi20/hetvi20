@@ -6,12 +6,6 @@
 
 <img alt="coding" width="400px" src="https://media.tenor.com/2SeTinGEKNQAAAAd/codelikeagirl.gif">
 
-- 🔭 I’m currently working on [Store Billing System](https://github.com/hetvi20/billing-software-python-tkinter)
-
-- 👯 I’m looking to collaborate on [Hawking](https://hawkev.in/)
-
-- 🤝 I’m looking for help with [Collage Website](https://www.gphimatnagar.in/)
-
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/myselfhetvi/](https://www.linkedin.com/in/myselfhetvi/)
 
 - 📫 How to reach me **hetvi4448shah@gmail.com**
