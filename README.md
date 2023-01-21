@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hetvi20&label=Profile%20views&color=0e75b6&style=flat" alt="hetvi20" /> </p>
 
-<img alt="coding" width="400px" src="https://media.tenor.com/2SeTinGEKNQAAAAd/codelikeagirl.gif">
+<!-- <img alt="coding" width="400px" src="https://media.tenor.com/2SeTinGEKNQAAAAd/codelikeagirl.gif"> -->
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/myselfhetvi/](https://www.linkedin.com/in/myselfhetvi/)
 
