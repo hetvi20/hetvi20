@@ -1,9 +1,13 @@
 <h1 align="center">Hello!! 🙋 My self Hetvi shah</h1>
 <!-- <h3 align="center">A passionate Backend developer</h3> -->
 <p align="left">
- <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?size=25&color=1A9AF7&lines=I`m+Hetvi+shah;Welcome+to+my+GitHub;I'm+programmer;I+love+Codes;I`m+coderjourneys+Coder">
-  </a>
+<!--  <a href="https://git.io/typing-svg" target="_blank"> --> </a>
+<!--     <img src="https://readme-typing-svg.herokuapp.com?size=25&color=1A9AF7&lines=I`m+Hetvi+shah;Welcome+to+my+GitHub;I'm+programmer;I+love+Codes;I`m+coderjourneys+Coder"> -->
+   🔭I'm a DEVOPS Aspirant with a love for automating tasks and improving how software is delivered.
+   🌱I enjoy problem-solving and aim to make processes smoother while bringing development and operations teams closer together.
+   😄Come along with me as I embark on this journey of learning, experimenting, and contributing to the dynamic field of DevOps.
+     Welcome to my GitHub page!
+ 
 </p>
 <img align="right" src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=black&theme=synthwave&qColor=orange&aColor=white" alt="Jokes Card" />
 
@@ -11,7 +15,8 @@
 
 <!-- <img alt="coding" width="400px" src="https://media.tenor.com/2SeTinGEKNQAAAAd/codelikeagirl.gif"> -->
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/myselfhetvi/](https://www.linkedin.com/in/myselfhetvi/)
+- 👨‍💻 How to reach me:  [LinkedIn](https://www.linkedin.com/in/imhetvishah)
+- ⚡ Fun fact: I love business talk so much that I often forget the paths I have taken. Despite this, I always manage to find my way back and have some amazing stories to tell from my adventures.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
