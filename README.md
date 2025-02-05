@@ -1,8 +1,8 @@
 <h1 align="center">Hello!! 🙋 I`m Hetvi shah</h1>
 <!-- <h3 align="center">A passionate Backend developer</h3> -->
-   🔭I'm a Cloud software Aspirant with a love for automating tasks and improving how software is delivered.<br>
+   🔭I'm a Problem-solver with a love for automating tasks and improving how software is delivered.<br>
    🌱I enjoy problem-solving and aim to make processes smoother while bringing development and operations teams closer together.<br>
-   😄Come along with me as I embark on this journey of learning, experimenting, and contributing to the dynamic field of DevOps.
+   😄Come along with me as I embark on this journey of learning, experimenting, and contributing to the dynamic field.
      Welcome to my GitHub page!
  
 
