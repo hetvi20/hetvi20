@@ -2,8 +2,6 @@
 <!-- <h3 align="center">A passionate Backend developer</h3> -->
    🔭I'm a Problem-solver with a love for automating tasks and improving how software is delivered.<br>
    🌱I enjoy problem-solving and aim to make processes smoother while bringing development and operations teams closer together.<br>
-   😄Come along with me as I embark on this journey of learning, experimenting, and contributing to the dynamic field.
-     Welcome to my GitHub page!
  
 
 <img align="right" src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=black&theme=synthwave&qColor=orange&aColor=white" alt="Jokes Card" />
