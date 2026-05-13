@@ -1,43 +1,86 @@
-<h1 align="center">Hello!! 🙋 I`m Hetvi shah</h1>
-<!-- <h3 align="center">A passionate Backend developer</h3> -->
-   🔭I'm a Problem-solver with a love for automating tasks and improving how software is delivered.<br>
-   🌱I enjoy problem-solving and aim to make processes smoother while bringing development and operations teams closer together.<br>
- 
 
-<img align="right" src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=black&theme=synthwave&qColor=orange&aColor=white" alt="Jokes Card" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F77222&size=29&multiline=true&width=700&lines=Welcome+to+my+GitHub)](https://git.io/typing-svg)
+<h1 align = "center"> 👋 Hi, I’m @HetviShah </h1>
+<h2 align = "center"> Seeking Full Time Opportunities in Business Intelligenc and Data Engineering </h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hetvi20&label=Profile%20views&color=0e75b6&style=flat" alt="hetvi20" /> </p>
+📖 A graduate student at <b>University of Alabama at Birmingham(UAB)</b> <br>
+📍 Birmingham, Alabama <br>
 
-<!-- <img alt="coding" width="400px" src="https://media.tenor.com/2SeTinGEKNQAAAAd/codelikeagirl.gif"> -->
+## About Me
+🔭 Project I am working on : Building end-to-end Data Engineering Solutions with Snowflake and integrating AI\
+🌱 Currently Learning: Snowflake and Microsoft Fabric; Solving SQL questions on Data Lemur and LeetCode\
+👨‍💻 All of my projects are available at [https://github.com/hetvi20](https://github.com/hetvi20?tab=repositories)\
+📫 You can reach me at **hetvi4448shah@gmail.com** 
 
-- 👨‍💻 How to reach me:  [LinkedIn](https://www.linkedin.com/in/imhetvishah)
-- ⚡ Fun fact: I love business talk so much that I often forget the paths I have taken. Despite this, I always manage to find my way back and have some amazing stories to tell from my adventures.
+## Technologies Known: 
+
+#### Languages and Databases:  
+<div class="image-container">
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" title="Mircosoft SQL Server"/>
+  <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" alt="mysql" width="40" height="40" title="MySQL Workbench"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" title="Postgre SQL"/>
+  <img src="https://companieslogo.com/img/orig/SNOW-35164165.png?t=1634190631" alt="snowflake" width="40" height="40" title="SnowFlake"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" title="Python"/ > 
+</div>
+
+#### Python Libraries:
+<div class="image-container">
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40",title="Seaborn"/>
+  <img src="https://image.pngaaa.com/242/4152242-middle.png" alt="matplotlib" width="40" height="40",title="Matplotlib"/ >
+</div>
+
+#### Visualization Tools: 
+<div class="image-container">
+  <img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" alt="tableau" width="40" height="40", title="Tableau"/>
+  <img src="https://1000logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo-2013.png" alt="powerbi" width="70" height="70",title="Power BI"/>
+  
+</div>
+
+
+## Professional History
+👨‍💻 **Advanced Analytical Engineer Co-op**\
+📍 *Associated Research and Knowledge Specialists,Remote, USA*\
+📆 May 2025 - Dec 2025
+
+#### Responsibilties:
+◦ Engineered and automated ETL pipelines for Salesforce data using Python, SQL, dbt, Prefect, and Docker, enabling reliable and scalable data ingestion into Azure Blob Storage.
+◦ Designed and implemented a scalable cloud-based data warehouse architecture with automated workflows, data validation, and Git-based version control, improving overall data processing efficiency by 40%.
+◦ Developed interactive Power BI dashboards to monitor operational KPIs, deliver actionable business insights, and support data-driven strategic decision-making.
+
+👨‍💻 **Software Engineer**\
+📍 *One Way Akshar LLC, India*\
+📆 August 2021 - July 2023
+
+#### Responsibilites:
+◦ Designed and developed a Python-MySQL based invoicing and inventory management system for small retail businesses, streamlining sales operations and inventory tracking.
+◦ Built a structured relational database solution to automate sales monitoring and inventory updates, reducing manual data entry errors by 15% and improving reporting accuracy and operational efficiency.
+◦ Collaborated in Agile development processes by contributing to sprint planning, technical discussions, and iterative feature development to support scalable system enhancements.
+
+
+## Academics
+📖 **Master of Computer Science**\
+📍 *University of Alabama at Birmingham(UAB) - Birmingham, United States* \
+📆 Aug 2024 - May 2026
+
+#### Relevant Courses:
+- Foundations of Data Analytics
+- Data Management for Analytics
+- Data Mining Engineering
+- Computation and Visualization
+
+
+📖 **Bachelor of Engineering In Computer Science** \
+📍 *Gujarat Technical University - India* \
+📆 August 2020 - June 2023
+
+#### Relevant Courses:
+- Database Management Systems
+- Data Warehousing and Mining
+- Big Data Analytics
+- Management Information Systems
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/myselfhetvi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/myselfhetvi/" height="30" width="40" /></a>
-<a href="https://instagram.com/@myselfhetvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@myselfhetvi" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hetvi4448shah/hackos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/hetvi4448shah/hackos" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/imhetvishah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mallika gaikwad" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></p>
-
-
-
-
-<details>
-<summary>Don't Click Here</summary>
-<img src="https://github.com/PulkitMalhotra161001/PulkitMalhotra161001/blob/output/github-contribution-grid-snake.svg">
-
- 
-<p align='center'>
-  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
-</p>
-<p align='center'>
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> How to reach me: <a href='mailto:hetvi4448shah@gmail.com'>hetvi4448shah@gmail.comm</a>
-</p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hetvi20&show_icons=true&locale=en" alt="hetvi20" /></p>
-
-
- </details>
