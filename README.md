@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F77222&size=29&multiline=true&width=700&lines=Welcome+to+my+GitHub)](https://git.io/typing-svg)
 <h1 align = "center"> 👋 Hi, I’m @HetviShah </h1>
-<h2 align = "center"> Data Engineering & Data Analyst Professional | Python • SQL • dbt • Azure • Power BI </h2>
+<h2 align = "center"> Data Engineering & Data Scientist Professional | Python • SQL • dbt • Azure • Power BI </h2>
 
 📖 A graduate student at <b>University of Alabama at Birmingham(UAB)</b> <br>
 📍 Birmingham, Alabama <br>
